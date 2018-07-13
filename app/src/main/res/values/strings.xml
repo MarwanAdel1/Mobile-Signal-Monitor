@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Signal Explorer</string>
+    <string name="title_activity_maps">Signal History</string>
+    <string name="signup"><u>Sign Up for Signal Monitor</u></string>
+    <string name="forgot"><u>Forgot your password?</u></string>
+    <string name="title_activity_reaching">Map</string>
+</resources>
